@@ -6,9 +6,11 @@
 # print(round(2**0.4, 4))
 
 # name = "Raj"
+# last_name = "Aryan"
 # age = '21'
 
-# print("hii I am", name, "and I am", age, "years old" )
+
+# print("hii I am", name, last_name, "and I am", age, "years old" )
 
 # f_name = "Raj"
 # l_name = "Aryan"
@@ -19,7 +21,7 @@
 # name = input("Enter name")
 # print("hey" + name)
 # age = input("Enter Age")
-
+# print("your age is ", age)
 
 # first_no = int(input("Enter first number"))
 # second_no = int(input("Enter second Number"))
@@ -321,17 +323,17 @@
 # print(mixed)
 
 
-def calculate_exp(exp):
-    total = 0
-    for i in exp:
-        total+=i
-    return total
+# def calculate_exp(exp):
+#     total = 0
+#     for i in exp:
+#         total+=i
+#     return total
 
-raj_exp_list = [500, 450, 100]
-renu_exp_list = [100, 500, 120]
+# raj_exp_list = [500, 450, 100]
+# renu_exp_list = [100, 500, 120]
 
-raj_exp = calculate_exp(raj_exp_list)
-print(raj_exp)
+# raj_exp = calculate_exp(raj_exp_list)
+# print(raj_exp)
 
-renu_exp = calculate_exp(renu_exp_list)
-print(renu_exp)
+# renu_exp = calculate_exp(renu_exp_list)
+# print(renu_exp)
