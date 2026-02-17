@@ -1,5 +1,7 @@
 # print("hello world")
 # print('let\'s rock')
+# print("raj", "saloni", "nikhil", sep = "-")
+# print("raj", "saloni", "nikhil", sep = "\n")
 
 # print("hell\blo RAJ !!")
 # print(r"hello\nmr.Raj Aryan")
